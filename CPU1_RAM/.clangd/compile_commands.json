@@ -1,0 +1,72 @@
+[
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1 -xc",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/dcdc-control/dcdc_control.c"
+   },
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1 -xc",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device/device.c"
+   },
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device/f28004x_codestartbranch.asm"
+   },
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1 -xc",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/error-hander/error_handler.c"
+   },
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1 -xc",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/hal/pwm_driver.c"
+   },
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1 -xc",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/main.c"
+   },
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1 -xc",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/pfc-control/pfc_control.c"
+   },
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1 -xc",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/pid/pid.c"
+   },
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1 -xc",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/sogi-pll/sogi_pll.c"
+   },
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1 -xc",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/tests/adc_test/adc_test.c"
+   },
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1 -xc",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/tests/can_test/can_test.c"
+   },
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1 -xc",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/tests/epwm_test/epwm_test.c"
+   },
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1 -xc",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28004x/driverlib/\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -I\"C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg\" -DF28004x=1 -xc",
+      "file"      : "C:/Users/90541/workspace_ccstheia/Charger_Firmware_v1.1/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   }
+]

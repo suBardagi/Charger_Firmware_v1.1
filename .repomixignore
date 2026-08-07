@@ -1,0 +1,29 @@
+# CCS Build ve Çıktı Klasörleri
+CPU1_RAM/
+CPU1_FLASH/
+Debug/
+Release/
+
+# Derleme Çıktıları ve Geçici Dosyalar
+*.obj
+*.out
+*.map
+*.d
+*.d_raw
+*.asm
+*.hex
+*.bin
+*.cmd.genlibs
+*.opt
+
+# TI ve CCS IDE Sistem Dosyaları (İsteğe bağlı)
+.ccsproject
+.cproject
+.project
+.settings/
+.xdcenv.mak
+
+# İstersen TI'ın otomatik oluşturduğu cihaz dosyalarını da hariç tutabilirsin
+# (Sadece kendi yazdığın algoritmaları göstermek istiyorsan açabilirsin)
+# device/
+# syscfg/

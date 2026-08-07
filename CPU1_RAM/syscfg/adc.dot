@@ -1,0 +1,26 @@
+digraph {
+    graph [fontname = "helvetica"];
+    node  [fontname = "helvetica"];
+    edge  [fontname = "helvetica"];
+    graph [mclimit=50 nodesep=0.5 rankdir=LR ranksep=1.25]
+
+    node [shape = circle style=filled];
+
+        adca_SOC0 [fillcolor="#FFA0A0" pos="18.000, 3.000!"]
+        adca_SOC1 [fillcolor="#FFA0A0" pos="18.000, 0.000!"]
+        adca_SOC2 [fillcolor="#FFA0A0" pos="18.000, -3.000!"]
+        adca_SOC3 [fillcolor="#FFA0A0" pos="18.000, -6.000!"]
+        adca_SOC4 [fillcolor="#FFA0A0" pos="18.000, -9.000!"]
+        adca_SOC5 [fillcolor="#FFA0A0" pos="18.000, -12.000!"]
+        adca_SOC6 [fillcolor="#FFA0A0" pos="18.000, -15.000!"]
+        adca_SOC7 [fillcolor="#FFA0A0" pos="18.000, -18.000!"]
+        adca_SOC8 [fillcolor="#FFA0A0" pos="18.000, -21.000!"]
+        adca_SOC9 [fillcolor="#FFA0A0" pos="18.000, -24.000!"]
+        adca_SOC10 [fillcolor="#FFA0A0" pos="18.000, -27.000!"]
+        adca_SOC11 [fillcolor="#FFA0A0" pos="18.000, -30.000!"]
+        adca_SOC12 [fillcolor="#FFA0A0" pos="18.000, -33.000!"]
+        adca_SOC13 [fillcolor="#FFA0A0" pos="18.000, -36.000!"]
+        adca_SOC14 [fillcolor="#FFA0A0" pos="18.000, -39.000!"]
+        adca_SOC15 [fillcolor="#FFA0A0" pos="18.000, -42.000!"]
+    node [shape=rect style=filled];
+}
